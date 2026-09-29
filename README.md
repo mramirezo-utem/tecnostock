@@ -148,7 +148,7 @@ tecnostock/
 | CAB-001 | Cable USB-C 1m | 3 | 10 (stock bajo a propósito) |
 | PER-001 | Mouse inalámbrico | 12 | 4 |
 
-**Casos de prueba** (completar con el resultado real y la evidencia):
+**Casos de prueba**:
 
 | ID | Req. | Caso | Pasos / datos | Resultado esperado | Resultado obtenido | Evidencia |
 | --- | --- | --- | --- | --- | --- | --- |
